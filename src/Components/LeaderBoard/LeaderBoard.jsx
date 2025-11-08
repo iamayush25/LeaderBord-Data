@@ -10,7 +10,6 @@ const Leaderboard = () => {
         { name: 'Manoj', reward: 'f3 Collectable', time: '1:11:00:000' },
         { name: 'Akash Gupta', time: '1:11:30:000' },
         { name: 'Ravinder', time: '1:11:45:000' },
-        { name: 'Vikas', time: '1:12:00:000' },
         { name: 'Yash', time: '1:12:15:000' },
         { name: 'Hamid Ansari', time: '1:12:30:000' },
         { name: 'Sonpal', time: '1:12:45:000' },
